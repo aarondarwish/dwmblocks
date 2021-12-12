@@ -11,5 +11,6 @@ sudo make install
 ```
 If you make a change and wish for it to take effect, simply run:
 ```console
+cd ~/.dwmblocks
 sudo make clean install
 ```
