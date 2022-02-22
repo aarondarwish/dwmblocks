@@ -1,11 +1,11 @@
 # dwmblocks
 A minimalist, beautiful and fast status bar for `dwm`.
 
-![alt text](https://github.com/aaron-darwish/dwmblocks/blob/master/status_bar.png?raw=true)
+![alt text](https://github.com/aarondarwish/dwmblocks/blob/master/status_bar.png?raw=true)
 
 To install:
 ```console
-git clone https://github.com/aaron-darwish/dwmblocks ~/.dwmblocks
+git clone https://github.com/aarondarwish/dwmblocks ~/.dwmblocks
 cd ~/.dwmblocks
 sudo make install
 ```
